@@ -1,1 +1,1 @@
-Tells the hamming distance between two strings of dna .
+Tells the hamming distance between two strings of dna.
